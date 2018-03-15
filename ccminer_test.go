@@ -6,7 +6,7 @@ import (
 )
 
 // WARNING: These tests are currently terrible, and require a setup such as mine
-// (I'm connecting to a real cgminer instance running on a different machine).
+// (I'm connecting to a real ccminer instance running on a different machine).
 // Once I figure out how to mock things out, these tests should improve substantially.
 // For now they're more of just a convenient scratch area for manual testing.
 
